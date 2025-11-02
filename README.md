@@ -1,4 +1,4 @@
-A beautifully designed and simple **Weather Application** built using **HTML, CSS, and JavaScript**, which fetches real-time weather information for any city using the **OpenWeatherMap API**.  
+A beautifully designed and simple Weather Application built using HTML, CSS, and JavaScript, which fetches real-time weather information for any city using the OpenWeatherMap API.  
 This project combines clean UI, responsive design, and smooth interactivity — perfect for learning API integration and front-end development basics.
 
 
@@ -19,7 +19,6 @@ Visit https://openweathermap.org/api
 Sign up and create a free account.
 Get your personal API key.
 Open script.js and replace the default API key with your own:
-const apiKey = "YOUR_API_KEY_HERE";
 
  Project Structure
 Weather-App/
@@ -59,15 +58,17 @@ Hover and focus effects for input & button
  Error handling for invalid city names
  Simple, clean, and elegant UI
 
- Future Enhancements
-Here are some ideas for extending the app:
 
-
-
-Developed by: AHANA
+Developed by: AHANA  
               AFIFA
-              ANUSHREE
+              ANUSHRI
               AYESHA
+ profile links : http://github.com/AhanaBonde/Weather-App.git
+                 https://github.com/ayeshaa-28 
+                 https://github.com/Anushri-niman
+                 https://github.com/AfifaShah07
+                      
+             
 
 
 
